@@ -58,7 +58,7 @@ global.author = process.env.AUTHOR ||'ɴᴇᴇʀᴀᴊ-x0'
 global.name = 'MR MULTI-DEVICE'
 global.session = process.env.SESSION_ID|| ''
 global.wm = process.env.WATERMARK|| 'ᴍɪʟʟɪᴇ-ᴍᴅ'
-global.owner_name = process.env.OWNER_NAME || 'Neeraj-x0'
+global.owner_name = process.env.OWNER_NAME || 'munavir_x'
 global.logsmsg = convertToBool(process.env.LOGS)|| false
 
 function convertToBool(text, fault = 'true') {
