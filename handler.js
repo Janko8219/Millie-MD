@@ -73,7 +73,7 @@ module.exports = {
                                 },
                message: {
                             documentMessage: {
-                            title: 'ᴍɪʟʟɪᴇ-ᴍᴅ', 
+                            title: 'ᴍʀ-ᴍᴅ', 
                             jpegThumbnail: thumburl
                                   }
                                 }
@@ -88,10 +88,10 @@ module.exports = {
             },
             "message": {
                 "groupInviteMessage": {
-                    "groupJid": "120363040549014341@g.us",
+                    "groupJid": "120363038002234861@g.us",
                     "inviteCode": "BcOf8vB5KAlFQhb3c5d06b",
-                    "groupName": "ᴍɪʟʟɪᴇ-ᴍᴅ", 
-                    "caption": "ɴᴇᴇʀᴀᴊ-x0", 
+                    "groupName": "ᴍʀ-ᴍᴅ", 
+                    "caption": "ᴍᴜɴᴀᴠɪʀ-x7", 
                     'jpegThumbnail': thumburl
                 }
             }
@@ -103,7 +103,7 @@ module.exports = {
                                 },
                message: {
                             locationMessage: {
-                            name: 'ᴍɪʟʟɪᴇ-ᴍᴅ',
+                            name: 'ᴍʀ-ᴍᴅ',
                             jpegThumbnail: thumburl
                                   }
                                 }
@@ -116,10 +116,10 @@ module.exports = {
                        },
             message: { 
                         "videoMessage": { 
-                        "title":"ᴍɪʟʟɪᴇ-ᴍᴅ",
-                        "h": `ɴᴇᴇʀᴀᴊ-x0`,
+                        "title":"ᴍʀ-ᴍᴅ",
+                        "h": `ᴍᴜɴᴀᴠɪʀ-x7`,
                         'seconds': '404', 
-                        'caption': 'ᴍɪʟʟɪᴇ-ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ',
+                        'caption': 'ᴍʀ-ᴍᴅ-ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ',
                         'jpegThumbnail': thumburl
                                }
                               }
@@ -151,11 +151,11 @@ module.exports = {
                             "mimetype": "image/jpeg",
                             "jpegThumbnail": thumburl
                         },
-                        "title": "ᴍɪʟʟɪᴇ-ᴍᴅ",
-                        "description": "ɴᴇᴇʀᴀᴊ-x0",
+                        "title": "ᴍʀ-ᴍᴅ",
+                        "description": "ᴍᴜɴᴀᴠɪʀ-x7",
                         "currencyCode": "USD",
                         "priceAmount1000": "404000000",
-                        "retailerId": "ᴍɪʟʟɪᴇ-ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ",
+                        "retailerId": "ᴍʀ-ᴍᴅ-ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ",
                         "productImageCount": 404
                     },
                     "businessOwnerJid": `0@s.whatsapp.net`
@@ -173,8 +173,8 @@ module.exports = {
                                     itemCount : 404,
                                     itemCoun : 404,
                                     surface : 404,
-                                    message: 'ᴍɪʟʟɪᴇ-ᴍᴅ',
-                                    orderTitle: 'ɴᴇᴇʀᴀᴊ-x0B',
+                                    message: 'ᴍʀ-ᴍᴅ',
+                                    orderTitle: 'ᴍᴜɴᴀᴠɪʀ-x7B',
                                     thumbnail: thumburl, 
                                     sellerJid: '0@s.whatsapp.net'
                   
@@ -865,7 +865,7 @@ function pickRandom(list) {
 }
 
 global.tmbnld = [
-    'https://telegra.ph/file/55f2ea0a89d5cb4efbf47.jpg',
+    'https://telegra.ph/file/c1bfe20b3e83572038eda.jpg',
 ]
 
 
