@@ -19,7 +19,7 @@ global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Premium user
 
 global.devx = 'false'
 
-global.owner = ["918113921898"]
+global.owner = ["918590822912"]
 global.APIs = { // API Prefix
 //======= name: 'https://website' ========//
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -52,7 +52,7 @@ global.web1 = 'https://munavir7.github.io/'
 global.url = 'https://chat.whatsapp.com/ECbYEz3bUC8DPzin2zOGxS'
 
 //HEROKU  VARS
-global.thumburl = process.env.IMAGE || 'https://i.pinimg.com/474x/de/bd/b2/debdb24645169bf95eecd49f3144315f.jpg'
+global.thumburl = process.env.IMAGE || 'https://telegra.ph/file/e6488b24409dd1fa1b85d.jpg'
 global.packname = process.env.PACKNAME ||'ᴍɪʟʟɪᴇ-ᴍᴅ'
 global.author = process.env.AUTHOR ||'ɴᴇᴇʀᴀᴊ-x0'
 global.name = 'MR MULTI-DEVICE'
